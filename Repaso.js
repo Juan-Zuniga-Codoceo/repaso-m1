@@ -29,7 +29,7 @@ const { Queue, LinkedList, BinarySearchTree } = require('./DataStructures.js');
 // myLinkedList.search(16) ---> devuelve 2.
 
 LinkedList.prototype.getHead = function () {};
-
+hola 
 LinkedList.prototype.getTail = function () {};
 
 LinkedList.prototype.search = function (value) {};
